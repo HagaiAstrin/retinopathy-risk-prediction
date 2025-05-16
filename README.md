@@ -81,6 +81,8 @@ Each patient was associated with multiple time-stamped test records (PID-based).
 | Macro Recall   | 0.8555 |
 | Macro Precision| 0.8537 |
 
+We also achieved 0.96 recall on case 2 (critical prediction target)
+
 ---
 
 ## 🔍 Feature Importance
