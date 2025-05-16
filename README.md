@@ -116,7 +116,7 @@ Due to medical privacy constraints, the **code and datasets cannot be publicly s
 - Healthcare-oriented ML modeling  
 - Data wrangling from structured hospital databases  
 - Imbalanced classification with class-aware metrics  
-- Model explainability using SHAP and permutation analysis  
+- Model explainability using feature importance 
 - Hyperparameter tuning and cross-validation
 
 ---
@@ -127,11 +127,4 @@ Due to medical privacy constraints, the **code and datasets cannot be publicly s
 - Real-time risk dashboard integration
 - Deploy model as clinical decision support API
 
----
 
-## 👤 Author
-
-Developed by [Your Name] — Machine Learning Researcher @ BGU  
-Part of the "URgent" initiative for smarter diabetic care prioritization.
-
----
